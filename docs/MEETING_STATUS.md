@@ -17,7 +17,7 @@
 
 Run `bash scripts/run_tests.sh` from the repository root.
 Seven ordinary self-checking tests pass on Verilator/Icarus. Individual test
-logs and compile logs are generated under `emu_soc/build/`.
+logs and compile logs are generated under `build/`.
 
 ## Scope statement
 
