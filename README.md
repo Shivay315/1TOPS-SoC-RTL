@@ -1,4 +1,4 @@
-# 1-TOPS SoC RTL demo
+# 1-TOPS SoC RTL
 
 The supplied RTL remains unchanged in its original directories. A separate
 integrated top and newly authored RTL make a **simulation-verified integration
